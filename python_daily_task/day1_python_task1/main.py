@@ -6,7 +6,7 @@ elif(current<=50):
 elif(current<=80):
     print("moderate-partial charging")
 else:
-    print("invaliddd")
+    print("invalid")
 des=current-100
 print("battery capacity 60kwh")
 print("current:",current,"%")
